@@ -1,3 +1,3 @@
 # optim-images-bot
 
-😊
+😜
