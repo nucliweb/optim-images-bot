@@ -1,0 +1,8 @@
+{
+    "schedule": "daily", // daily|weekly|monthly
+    "aggressiveCompression": "true", // true|false
+    "compressWiki": "true", // true|false
+    "minKBReduced": 500, // delay new prs until size reduction meets this threshold (default to 10)
+    "prTitle" : "Images Optimization Bot",        
+    "prBody" : "Save the planet, optimize yoyr images",
+}
